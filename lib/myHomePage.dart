@@ -29,6 +29,9 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void chargement() async {
     liste = await initList2(liste);
+    setState(() {
+
+    });
   }
 
   @override
