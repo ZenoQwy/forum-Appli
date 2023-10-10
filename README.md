@@ -1,16 +1,12 @@
 # forum
 
-A new Flutter project.
+Ma première application Flutter utilisant les API
 
-## Getting Started
+## Installation 
 
-This project is a starting point for a Flutter application.
+Télécharger le projet, décompressez le, ouvrez le dans un IDE ( VSCode, Android Studio ).
+N'oubliez pas d'avoir Flutter et Dart à jour sinon vous aurez des erreurs liées à des versions antérieures qui posent problèmes. 
 
-A few resources to get you started if this is your first Flutter project:
+Egalement, étant donné que l'application se connecte à mon API, Si ma machine sur nuage-pédagogique n'est pas allumé, vous n'aurai jamais aucunes données qui arrivera sur l'écran et vous aurez un message dans la console qui dira Error: 503 - Service Unavailable.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Si aucunes erreurs n'a lieu mais que votre page et blanche, fait un " hot reload " de la page grâce au petit logo ⚡ de android studios. Pour VSCode, appuyé simplement une nouvelle fois sur le bouton ▶️.
