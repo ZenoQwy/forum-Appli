@@ -8,5 +8,3 @@ Télécharger le projet, décompressez le, ouvrez le dans un IDE ( VSCode, Andro
 N'oubliez pas d'avoir Flutter et Dart à jour sinon vous aurez des erreurs liées à des versions antérieures qui posent problèmes. 
 
 Egalement, étant donné que l'application se connecte à mon API, Si ma machine sur nuage-pédagogique n'est pas allumé, vous n'aurai jamais aucunes données qui arrivera sur l'écran et vous aurez un message dans la console qui dira Error: 503 - Service Unavailable.
-
-Si aucunes erreurs n'a lieu mais que votre page et blanche, fait un " hot reload " de la page grâce au petit logo ⚡ de android studios. Pour VSCode, appuyé simplement une nouvelle fois sur le bouton ▶️.
